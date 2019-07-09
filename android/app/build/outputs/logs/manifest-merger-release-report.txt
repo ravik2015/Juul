@@ -1,0 +1,200 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/neelesh.pokhriyal/Desktop/Neelesh.Pokhriyal/RNStarterKitFlux/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/neelesh.pokhriyal/Desktop/Neelesh.Pokhriyal/RNStarterKitFlux/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/neelesh.pokhriyal/Desktop/Neelesh.Pokhriyal/RNStarterKitFlux/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/neelesh.pokhriyal/Desktop/Neelesh.Pokhriyal/RNStarterKitFlux/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [:react-native-svg] /Users/neelesh.pokhriyal/Desktop/Neelesh.Pokhriyal/RNStarterKitFlux/node_modules/react-native-svg/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-vector-icons] /Users/neelesh.pokhriyal/Desktop/Neelesh.Pokhriyal/RNStarterKitFlux/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:@react-native-community_async-storage] /Users/neelesh.pokhriyal/Desktop/Neelesh.Pokhriyal/RNStarterKitFlux/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.react:react-native:0.59.8] /Users/neelesh.pokhriyal/.gradle/caches/transforms-1/files-1.1/react-native-0.59.8.aar/ddeffddd92ed01e61728b217cf973be0/AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/neelesh.pokhriyal/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/fb3407784eb28b90cf35145684e697fd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/neelesh.pokhriyal/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/186a43a4e548bc00963e036b4ccc4a28/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/neelesh.pokhriyal/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/2bbe9dfaa4c4e977133bdd6847647fd6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/neelesh.pokhriyal/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/0f0da067c07c7fbd59878d041b1ddaba/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/neelesh.pokhriyal/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/14045711c8814bd1507719c21f556b27/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/neelesh.pokhriyal/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/c17bd9071ce020a183c597e1f50a35ea/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/neelesh.pokhriyal/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/2c9460928377efee48532b9275a40fb0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/neelesh.pokhriyal/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/ff121524eb6825dd7ac116583e171263/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/neelesh.pokhriyal/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/ff6a8bcf7d0fe7acbd9ba3446fe17eb3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/neelesh.pokhriyal/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/3218728ab0f83b0d3a20d66128401e51/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/neelesh.pokhriyal/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/53dd8125974907bdbd09523538d9bf27/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/neelesh.pokhriyal/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/dbc3e72d4a8ca7e94a9e1332fa9f038e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/neelesh.pokhriyal/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/03b9d6609b50649c67b852b56cb57c73/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/neelesh.pokhriyal/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/55aa5db3327e737d6c1b75b97cf5229d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/neelesh.pokhriyal/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/d793a54c97499eee2eef85ac9dccbbe5/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/neelesh.pokhriyal/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/59393df18e3a53959683f51d6fab7110/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/neelesh.pokhriyal/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/1bd65c21d7f31ccb8c29ded4076f0128/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/neelesh.pokhriyal/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/a6894dc24e9dc21d72532921aa83e289/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/neelesh.pokhriyal/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/5651a9ddbc1de36cb04d8a786da06771/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/neelesh.pokhriyal/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/7b3799c4824489ce497038ede341da27/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/neelesh.pokhriyal/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/6b54a9d19da376560d5c1a579883e2fa/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/neelesh.pokhriyal/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/cec18dcd06fc1639e45de3f061790a89/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/neelesh.pokhriyal/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/e2db603642ecd88fb8ddd34e8d5ae45a/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/neelesh.pokhriyal/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/951b7cc5139d38b3d95eb255ff88e4c5/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/neelesh.pokhriyal/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/2db4d9e7393a028ca8daf20641dd2dfb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/neelesh.pokhriyal/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/fc7a7aa65a42a2a1592191bf3717b887/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/neelesh.pokhriyal/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/029ce32c1a9d50bd36724c758fecffdd/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/neelesh.pokhriyal/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/cf58c40ad203ee681b8e9508a1c9fdbb/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/neelesh.pokhriyal/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/f87f5f98d22913b7b6c30a8cf85a15af/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/neelesh.pokhriyal/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/e10253dedda7511861e699d84b322cc3/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/neelesh.pokhriyal/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/ce8fdc8dd263c75c8270dc09fb205c65/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/neelesh.pokhriyal/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/702c9da155fa3cf42aceadc5f135974d/AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/neelesh.pokhriyal/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/fc8f03f0d61242f9ae8af2c46022e8c8/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/neelesh.pokhriyal/Desktop/Neelesh.Pokhriyal/RNStarterKitFlux/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/neelesh.pokhriyal/Desktop/Neelesh.Pokhriyal/RNStarterKitFlux/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/neelesh.pokhriyal/Desktop/Neelesh.Pokhriyal/RNStarterKitFlux/android/app/src/main/AndroidManifest.xml:1:1-26:12
+	package
+		ADDED from /Users/neelesh.pokhriyal/Desktop/Neelesh.Pokhriyal/RNStarterKitFlux/android/app/src/main/AndroidManifest.xml:2:3-36
+		INJECTED from /Users/neelesh.pokhriyal/Desktop/Neelesh.Pokhriyal/RNStarterKitFlux/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/neelesh.pokhriyal/Desktop/Neelesh.Pokhriyal/RNStarterKitFlux/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/neelesh.pokhriyal/Desktop/Neelesh.Pokhriyal/RNStarterKitFlux/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/neelesh.pokhriyal/Desktop/Neelesh.Pokhriyal/RNStarterKitFlux/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/neelesh.pokhriyal/Desktop/Neelesh.Pokhriyal/RNStarterKitFlux/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/neelesh.pokhriyal/Desktop/Neelesh.Pokhriyal/RNStarterKitFlux/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/neelesh.pokhriyal/Desktop/Neelesh.Pokhriyal/RNStarterKitFlux/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/neelesh.pokhriyal/Desktop/Neelesh.Pokhriyal/RNStarterKitFlux/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/neelesh.pokhriyal/Desktop/Neelesh.Pokhriyal/RNStarterKitFlux/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/neelesh.pokhriyal/Desktop/Neelesh.Pokhriyal/RNStarterKitFlux/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/neelesh.pokhriyal/Desktop/Neelesh.Pokhriyal/RNStarterKitFlux/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /Users/neelesh.pokhriyal/Desktop/Neelesh.Pokhriyal/RNStarterKitFlux/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from [com.facebook.react:react-native:0.59.8] /Users/neelesh.pokhriyal/.gradle/caches/transforms-1/files-1.1/react-native-0.59.8.aar/ddeffddd92ed01e61728b217cf973be0/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.59.8] /Users/neelesh.pokhriyal/.gradle/caches/transforms-1/files-1.1/react-native-0.59.8.aar/ddeffddd92ed01e61728b217cf973be0/AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/neelesh.pokhriyal/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/d793a54c97499eee2eef85ac9dccbbe5/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/neelesh.pokhriyal/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/d793a54c97499eee2eef85ac9dccbbe5/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/neelesh.pokhriyal/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/59393df18e3a53959683f51d6fab7110/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/neelesh.pokhriyal/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/59393df18e3a53959683f51d6fab7110/AndroidManifest.xml:22:5-23:19
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/neelesh.pokhriyal/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/702c9da155fa3cf42aceadc5f135974d/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/neelesh.pokhriyal/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/702c9da155fa3cf42aceadc5f135974d/AndroidManifest.xml:11:5-20
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/neelesh.pokhriyal/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/d793a54c97499eee2eef85ac9dccbbe5/AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from /Users/neelesh.pokhriyal/Desktop/Neelesh.Pokhriyal/RNStarterKitFlux/android/app/src/main/AndroidManifest.xml:8:7-39
+	android:roundIcon
+		ADDED from /Users/neelesh.pokhriyal/Desktop/Neelesh.Pokhriyal/RNStarterKitFlux/android/app/src/main/AndroidManifest.xml:10:7-52
+	android:icon
+		ADDED from /Users/neelesh.pokhriyal/Desktop/Neelesh.Pokhriyal/RNStarterKitFlux/android/app/src/main/AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from /Users/neelesh.pokhriyal/Desktop/Neelesh.Pokhriyal/RNStarterKitFlux/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /Users/neelesh.pokhriyal/Desktop/Neelesh.Pokhriyal/RNStarterKitFlux/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:name
+		ADDED from /Users/neelesh.pokhriyal/Desktop/Neelesh.Pokhriyal/RNStarterKitFlux/android/app/src/main/AndroidManifest.xml:7:7-38
+activity#com.rnrouterfluxstarter.MainActivity
+ADDED from /Users/neelesh.pokhriyal/Desktop/Neelesh.Pokhriyal/RNStarterKitFlux/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /Users/neelesh.pokhriyal/Desktop/Neelesh.Pokhriyal/RNStarterKitFlux/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/neelesh.pokhriyal/Desktop/Neelesh.Pokhriyal/RNStarterKitFlux/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /Users/neelesh.pokhriyal/Desktop/Neelesh.Pokhriyal/RNStarterKitFlux/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /Users/neelesh.pokhriyal/Desktop/Neelesh.Pokhriyal/RNStarterKitFlux/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/neelesh.pokhriyal/Desktop/Neelesh.Pokhriyal/RNStarterKitFlux/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /Users/neelesh.pokhriyal/Desktop/Neelesh.Pokhriyal/RNStarterKitFlux/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /Users/neelesh.pokhriyal/Desktop/Neelesh.Pokhriyal/RNStarterKitFlux/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/neelesh.pokhriyal/Desktop/Neelesh.Pokhriyal/RNStarterKitFlux/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /Users/neelesh.pokhriyal/Desktop/Neelesh.Pokhriyal/RNStarterKitFlux/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/neelesh.pokhriyal/Desktop/Neelesh.Pokhriyal/RNStarterKitFlux/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /Users/neelesh.pokhriyal/Desktop/Neelesh.Pokhriyal/RNStarterKitFlux/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /Users/neelesh.pokhriyal/Desktop/Neelesh.Pokhriyal/RNStarterKitFlux/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/neelesh.pokhriyal/Desktop/Neelesh.Pokhriyal/RNStarterKitFlux/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/neelesh.pokhriyal/Desktop/Neelesh.Pokhriyal/RNStarterKitFlux/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-svg] /Users/neelesh.pokhriyal/Desktop/Neelesh.Pokhriyal/RNStarterKitFlux/node_modules/react-native-svg/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-svg] /Users/neelesh.pokhriyal/Desktop/Neelesh.Pokhriyal/RNStarterKitFlux/node_modules/react-native-svg/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-vector-icons] /Users/neelesh.pokhriyal/Desktop/Neelesh.Pokhriyal/RNStarterKitFlux/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /Users/neelesh.pokhriyal/Desktop/Neelesh.Pokhriyal/RNStarterKitFlux/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:@react-native-community_async-storage] /Users/neelesh.pokhriyal/Desktop/Neelesh.Pokhriyal/RNStarterKitFlux/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:@react-native-community_async-storage] /Users/neelesh.pokhriyal/Desktop/Neelesh.Pokhriyal/RNStarterKitFlux/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-native:0.59.8] /Users/neelesh.pokhriyal/.gradle/caches/transforms-1/files-1.1/react-native-0.59.8.aar/ddeffddd92ed01e61728b217cf973be0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.59.8] /Users/neelesh.pokhriyal/.gradle/caches/transforms-1/files-1.1/react-native-0.59.8.aar/ddeffddd92ed01e61728b217cf973be0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/neelesh.pokhriyal/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/fb3407784eb28b90cf35145684e697fd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/neelesh.pokhriyal/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/fb3407784eb28b90cf35145684e697fd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/neelesh.pokhriyal/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/186a43a4e548bc00963e036b4ccc4a28/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/neelesh.pokhriyal/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/186a43a4e548bc00963e036b4ccc4a28/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/neelesh.pokhriyal/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/2bbe9dfaa4c4e977133bdd6847647fd6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/neelesh.pokhriyal/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/2bbe9dfaa4c4e977133bdd6847647fd6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/neelesh.pokhriyal/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/0f0da067c07c7fbd59878d041b1ddaba/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/neelesh.pokhriyal/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/0f0da067c07c7fbd59878d041b1ddaba/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/neelesh.pokhriyal/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/14045711c8814bd1507719c21f556b27/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/neelesh.pokhriyal/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/14045711c8814bd1507719c21f556b27/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/neelesh.pokhriyal/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/c17bd9071ce020a183c597e1f50a35ea/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/neelesh.pokhriyal/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/c17bd9071ce020a183c597e1f50a35ea/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/neelesh.pokhriyal/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/2c9460928377efee48532b9275a40fb0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/neelesh.pokhriyal/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/2c9460928377efee48532b9275a40fb0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/neelesh.pokhriyal/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/ff121524eb6825dd7ac116583e171263/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/neelesh.pokhriyal/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/ff121524eb6825dd7ac116583e171263/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/neelesh.pokhriyal/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/ff6a8bcf7d0fe7acbd9ba3446fe17eb3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/neelesh.pokhriyal/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/ff6a8bcf7d0fe7acbd9ba3446fe17eb3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/neelesh.pokhriyal/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/3218728ab0f83b0d3a20d66128401e51/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/neelesh.pokhriyal/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/3218728ab0f83b0d3a20d66128401e51/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/neelesh.pokhriyal/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/53dd8125974907bdbd09523538d9bf27/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/neelesh.pokhriyal/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/53dd8125974907bdbd09523538d9bf27/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/neelesh.pokhriyal/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/dbc3e72d4a8ca7e94a9e1332fa9f038e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/neelesh.pokhriyal/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/dbc3e72d4a8ca7e94a9e1332fa9f038e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/neelesh.pokhriyal/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/03b9d6609b50649c67b852b56cb57c73/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/neelesh.pokhriyal/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/03b9d6609b50649c67b852b56cb57c73/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/neelesh.pokhriyal/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/55aa5db3327e737d6c1b75b97cf5229d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/neelesh.pokhriyal/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/55aa5db3327e737d6c1b75b97cf5229d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/neelesh.pokhriyal/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/d793a54c97499eee2eef85ac9dccbbe5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/neelesh.pokhriyal/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/d793a54c97499eee2eef85ac9dccbbe5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/neelesh.pokhriyal/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/59393df18e3a53959683f51d6fab7110/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/neelesh.pokhriyal/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/59393df18e3a53959683f51d6fab7110/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/neelesh.pokhriyal/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/1bd65c21d7f31ccb8c29ded4076f0128/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/neelesh.pokhriyal/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/1bd65c21d7f31ccb8c29ded4076f0128/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/neelesh.pokhriyal/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/a6894dc24e9dc21d72532921aa83e289/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/neelesh.pokhriyal/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/a6894dc24e9dc21d72532921aa83e289/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/neelesh.pokhriyal/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/5651a9ddbc1de36cb04d8a786da06771/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/neelesh.pokhriyal/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/5651a9ddbc1de36cb04d8a786da06771/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/neelesh.pokhriyal/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/7b3799c4824489ce497038ede341da27/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/neelesh.pokhriyal/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/7b3799c4824489ce497038ede341da27/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/neelesh.pokhriyal/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/6b54a9d19da376560d5c1a579883e2fa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/neelesh.pokhriyal/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/6b54a9d19da376560d5c1a579883e2fa/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/neelesh.pokhriyal/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/cec18dcd06fc1639e45de3f061790a89/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/neelesh.pokhriyal/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/cec18dcd06fc1639e45de3f061790a89/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/neelesh.pokhriyal/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/e2db603642ecd88fb8ddd34e8d5ae45a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/neelesh.pokhriyal/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/e2db603642ecd88fb8ddd34e8d5ae45a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/neelesh.pokhriyal/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/951b7cc5139d38b3d95eb255ff88e4c5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/neelesh.pokhriyal/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/951b7cc5139d38b3d95eb255ff88e4c5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/neelesh.pokhriyal/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/2db4d9e7393a028ca8daf20641dd2dfb/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/neelesh.pokhriyal/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/2db4d9e7393a028ca8daf20641dd2dfb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/neelesh.pokhriyal/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/fc7a7aa65a42a2a1592191bf3717b887/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/neelesh.pokhriyal/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/fc7a7aa65a42a2a1592191bf3717b887/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/neelesh.pokhriyal/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/029ce32c1a9d50bd36724c758fecffdd/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/neelesh.pokhriyal/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/029ce32c1a9d50bd36724c758fecffdd/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/neelesh.pokhriyal/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/cf58c40ad203ee681b8e9508a1c9fdbb/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/neelesh.pokhriyal/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/cf58c40ad203ee681b8e9508a1c9fdbb/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/neelesh.pokhriyal/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/f87f5f98d22913b7b6c30a8cf85a15af/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/neelesh.pokhriyal/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/f87f5f98d22913b7b6c30a8cf85a15af/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/neelesh.pokhriyal/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/e10253dedda7511861e699d84b322cc3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/neelesh.pokhriyal/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/e10253dedda7511861e699d84b322cc3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/neelesh.pokhriyal/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/ce8fdc8dd263c75c8270dc09fb205c65/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/neelesh.pokhriyal/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/ce8fdc8dd263c75c8270dc09fb205c65/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/neelesh.pokhriyal/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/702c9da155fa3cf42aceadc5f135974d/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/neelesh.pokhriyal/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/702c9da155fa3cf42aceadc5f135974d/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/neelesh.pokhriyal/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/fc8f03f0d61242f9ae8af2c46022e8c8/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/neelesh.pokhriyal/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/fc8f03f0d61242f9ae8af2c46022e8c8/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/neelesh.pokhriyal/Desktop/Neelesh.Pokhriyal/RNStarterKitFlux/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/neelesh.pokhriyal/Desktop/Neelesh.Pokhriyal/RNStarterKitFlux/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/neelesh.pokhriyal/Desktop/Neelesh.Pokhriyal/RNStarterKitFlux/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/neelesh.pokhriyal/Desktop/Neelesh.Pokhriyal/RNStarterKitFlux/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/neelesh.pokhriyal/Desktop/Neelesh.Pokhriyal/RNStarterKitFlux/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/neelesh.pokhriyal/Desktop/Neelesh.Pokhriyal/RNStarterKitFlux/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/neelesh.pokhriyal/Desktop/Neelesh.Pokhriyal/RNStarterKitFlux/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/neelesh.pokhriyal/Desktop/Neelesh.Pokhriyal/RNStarterKitFlux/android/app/src/main/AndroidManifest.xml
